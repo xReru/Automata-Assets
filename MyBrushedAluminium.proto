@@ -1,0 +1,11 @@
+#VRML_SIM R2023b utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/released/projects/appearances/protos/BrushedAluminium.proto"
+
+PROTO MyBrushedAluminium [
+]
+{
+  BrushedAluminium {
+    colorOverride 0.00392156862745098 0.23529411764705882 0.08627450980392157
+  }
+}
